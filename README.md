@@ -8,7 +8,7 @@ This was a challenge to build a note taking web app with a simple database struc
 This code was forked from https://github.com/coding-boot-camp/miniature-eureka
 
 ## Live Site
-check out the live heroku app @ https://notetakingapp1212.herokuapp.com/notes
+check out the live heroku app @ https://notetakingapp1212.herokuapp.com
 
 ## Usage
 [MIT](https://choosealicense.com/licenses/mit/)
